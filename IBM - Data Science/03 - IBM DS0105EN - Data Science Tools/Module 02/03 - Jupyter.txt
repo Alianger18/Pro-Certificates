@@ -1,0 +1,5 @@
+https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0105EN-SkillsNetwork/labs/Module2_edx/Lab-JupyterNotebook-TheBasics.md.html
+
+https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0105EN-SkillsNetwork/labs/Module2_edx/Lab-JupyterNotebook_MoreFeatures.md.html
+
+https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0105EN-SkillsNetwork/labs/Module2_edx/Lab-JupyterNotebook-AdvFeature.md.html
